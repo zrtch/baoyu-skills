@@ -1,6 +1,6 @@
 # 每日热门 Skills
 
-> 更新时间：2026/05/04 09:59
+> 更新时间：2026/05/05 10:00
 
 本页面每日自动更新，展示最新的热门 Skills。
 
@@ -8,8 +8,8 @@
 
 | 排名 | Skill 名称 | 描述 | Stars | 链接 |
 |------|-----------|------|-------|------|
-| 1 | public-apis | A collective list of free APIs | 430764 | [链接](https://github.com/public-apis/public-apis) |
-| 2 | openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  | 367943 | [链接](https://github.com/openclaw/openclaw) |
-| 3 | awesome-selfhosted | A list of Free Software network services and web applications which can be hosted on your own servers | 290026 | [链接](https://github.com/awesome-selfhosted/awesome-selfhosted) |
-| 4 | project-based-learning | Curated list of project-based tutorials | 264773 | [链接](https://github.com/practical-tutorials/project-based-learning) |
-| 5 | the-book-of-secret-knowledge | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 218582 | [链接](https://github.com/trimstray/the-book-of-secret-knowledge) |
+| 1 | public-apis | A collective list of free APIs | 431445 | [链接](https://github.com/public-apis/public-apis) |
+| 2 | openclaw | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  | 368315 | [链接](https://github.com/openclaw/openclaw) |
+| 3 | awesome-selfhosted | A list of Free Software network services and web applications which can be hosted on your own servers | 290220 | [链接](https://github.com/awesome-selfhosted/awesome-selfhosted) |
+| 4 | project-based-learning | Curated list of project-based tutorials | 264864 | [链接](https://github.com/practical-tutorials/project-based-learning) |
+| 5 | the-book-of-secret-knowledge | A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. | 218721 | [链接](https://github.com/trimstray/the-book-of-secret-knowledge) |
