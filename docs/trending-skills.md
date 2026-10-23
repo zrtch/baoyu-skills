@@ -1,6 +1,6 @@
 # 每日热门 Skills
 
-> 更新时间：2026/10/22 10:32
+> 更新时间：2026/10/23 10:36
 
 本页面每日自动更新，展示最新的热门 Skills。
 
@@ -8,8 +8,8 @@
 
 | 排名 | Skill 名称 | 描述 | Stars | 链接 |
 |------|-----------|------|-------|------|
-| 1 | public-apis | A collective list of free APIs | 491141 | [链接](https://github.com/public-apis/public-apis) |
-| 2 | openclaw | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 392707 | [链接](https://github.com/openclaw/openclaw) |
-| 3 | rea | Reverse engineer anything with agents, from app behavior down to native binaries. | 358457 | [链接](https://github.com/morluto/rea) |
-| 4 | awesome-selfhosted | A list of Free Software network services and web applications which can be hosted on your own servers | 329073 | [链接](https://github.com/awesome-selfhosted/awesome-selfhosted) |
-| 5 | superpowers | An agentic skills framework & software development methodology that works. | 303196 | [链接](https://github.com/obra/superpowers) |
+| 1 | public-apis | A collective list of free APIs | 491445 | [链接](https://github.com/public-apis/public-apis) |
+| 2 | openclaw | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  | 392799 | [链接](https://github.com/openclaw/openclaw) |
+| 3 | rea | Reverse engineer anything with agents, from app behavior down to native binaries. | 366819 | [链接](https://github.com/morluto/rea) |
+| 4 | awesome-selfhosted | A list of Free Software network services and web applications which can be hosted on your own servers | 329373 | [链接](https://github.com/awesome-selfhosted/awesome-selfhosted) |
+| 5 | superpowers | An agentic skills framework & software development methodology that works. | 303777 | [链接](https://github.com/obra/superpowers) |
